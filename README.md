@@ -23,6 +23,3 @@ Task2 -Data Perspective on the Evolution of Education for 3- to 4-Year-Old Child
 
 [PDF Report](https://github.com/HDSS4IM/DPAM/blob/main/Zimbabwe_Education%20_Data%20Perspective%20Report.pdf)
 
-
-Google Drive include all files
-[Google Drive Link](https://drive.google.com/drive/folders/1DMrE1RfNd7gTktgH4gHIWIIhmi7xrLiv?usp=sharing)
