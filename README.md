@@ -1,5 +1,5 @@
 # DPAM
-You can find the full python code analysis run by github above 
+You can find the full python code analysis run by github and google Colab 
 
 
 
